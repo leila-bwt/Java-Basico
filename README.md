@@ -55,3 +55,21 @@ Apresentar as regras essenciais para a construção de códigos com base na ling
 A escrita de códigos de um programa é feito através da composição de palavras pré-definidas pela linguagem com as expressões que utilizamos para determinar o nome dos nossos arquivos, classes, atributos e métodos.
 
 É muito comum mesclarmos expressões no idioma americano com o nosso vocabulário. Existem projetos que recomendam que toda a implementação do seu programa seja escrita na língua inglesa.
+
+## Aula 2 - Padrão de nomenclatura
+
+Quando se trata de escrever códigos na linguagem Java, é recomendado seguir algumas convenções de escrita. Esses padrões estão expressos nos itens abaixo:
+
+* Arquivo .java: Todo arquivo .java deve começar com letra MAIUSCULA. Se a palavra for composta, a segunda palavra deve também ser maiúscula.
+
+* Nome da classe no arquivo: A classe deve possuir o mesmo nome do arquivo.java
+
+* Nome de variável: toda variável deve ser escrita com eltra minuscula, porém se a palavra for composta, a primeira letra da segunda palavra deverá ser maiuscula - "camelCase".
+
+>Regras da linguagem para declarar uma variável:
+>* Deve conter apenas letras, _(underline), $ ou os números de 0 a 9
+>* Deve obrigatóriamente se iniciar por uma letra (preferencialmente), _ou $, jamais com número
+>* Deve iniciar com uma letra minúscula (boa prática)
+>* Não pode conter espaços
+>* Não podemos usar palavras-chave da linguagem
+>* O nome deve ser único dentro de um escopo  
