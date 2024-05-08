@@ -73,3 +73,9 @@ Quando se trata de escrever códigos na linguagem Java, é recomendado seguir al
 >* Não pode conter espaços
 >* Não podemos usar palavras-chave da linguagem
 >* O nome deve ser único dentro de um escopo  
+
+## Aula 3 - Declarando variáveis e métodos
+
+Declarar uma variável em Java segue a seguinte estrutura:
+
+Tipo NomeBemDefinido = Atribuição (opcional em alguns casos)
