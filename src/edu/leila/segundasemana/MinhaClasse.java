@@ -1,3 +1,4 @@
+package edu.leila.segundasemana;
 public class MinhaClasse {
 
     public static void main (String [] args){

@@ -79,3 +79,9 @@ Quando se trata de escrever códigos na linguagem Java, é recomendado seguir al
 Declarar uma variável em Java segue a seguinte estrutura:
 
 Tipo NomeBemDefinido = Atribuição (opcional em alguns casos)
+
+## Aula 4 - Identação
+Basicamente indentar é um termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim a visualização e o entendimento do programa.
+
+## Aula 5 - Organizando arquivos
+A medida que nosso sitema vai evoluindo, surgem novos arquivos (código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes (packages).
