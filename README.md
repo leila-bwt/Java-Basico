@@ -85,3 +85,21 @@ Basicamente indentar é um termo utilizado para escrever o código do programa d
 
 ## Aula 5 - Organizando arquivos
 A medida que nosso sitema vai evoluindo, surgem novos arquivos (código fonte) em nossa estrutura de arquivos do projeto. Isso exige que seja realizado uma organização destes arquivos através de pacotes (packages).
+
+## Aula 6 - Java Beans
+Uma das maiores dificuldades na programação é escrever algoritmos legíveis a níveis que sejam compreendidos por todo seu time ou por você mesmo no futuro. Para isso a linguagem Java sugere, através de convenções, formas de escrita universal para nossas classes, atributos, métodos e pacotes.
+
+>Variáveis
+Mais cedo já aprendemos algumas regras de declaração de variáveis, mas agora iremos conhecer algumas sugestões de nomenclatura:
+
+>>Uma variável deve ser clara, sem abreviações ou definição sem sentido;
+>>Uma variável é sempre no singular, exceto quando se referir a um array ou coleção;
+>>Defina um idioma único para suas variáveis. Se você for declarar variáveis em inglês, defina todas em inglês.
+
+>Métodos
+Deverão ser nomeados como verbos + ação, através de uma mistura de letras minúsculas e maiúsculas. Em principio todas as letras que compõem o nome devem ser mantidas em minúsculo, com exceção da primeira letra de cada pavra composta a partir da segunda palavra.
+
+
+## Aula 7 - Tipo e Variáveis
+Explorar os tipos de dados numéricos inteiros, numéricos decimais, lógicos, caracteres e suas aplicabilidades.
+Explicar a diferença entre definição de variáveis e constantes.
